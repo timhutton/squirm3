@@ -4,7 +4,8 @@ Squirm3 is a simple kind of artificial chemistry, where 'atoms' have a type (a, 
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=VrTM6wYl4Us' target='_blank'><img src='http://img.youtube.com/vi/VrTM6wYl4Us/0.jpg' width='425' height=344 /> video</a>
 
-== Build ==
+Build
+-----
 
 Using Emscripten:
 
