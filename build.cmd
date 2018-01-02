@@ -1,0 +1,1 @@
+emcc src\main.cpp src\C2dVector.cpp src\SquirmCell.cpp src\SquirmCellProperties.cpp src\SquirmCellSlot.cpp src\SquirmChemistry.cpp src\SquirmGrid.cpp src\SquirmReaction.cpp src\SquirmError.cpp src\SquirmGrid_SDL.cpp -s WASM=1 -s USE_SDL=2 -std=c++11 -O3 -o index.js
